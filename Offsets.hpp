@@ -1,3 +1,5 @@
+//Valorant
+//2023-12-21 11:39:33
 //build by Chuan212  for China version
 auto GameBase = 0x140000000;
 namespace Offsets{ 
