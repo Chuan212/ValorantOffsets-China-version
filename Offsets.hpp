@@ -19,8 +19,6 @@ namespace Offsets{
     constexpr auto PlayerState         = 0x3f8;
     constexpr auto Mesh                = 0x438;
     constexpr auto BoneArray           = 0x5c8;
-    constexpr auto PlayerCameraManager = 0x480;
-    constexpr auto CameraCachePrivate  = 0x2650;
     constexpr auto TeamComponent       = 0x630;
     constexpr auto BombTeam            = 0xf8;
     constexpr auto DamageHandler       = 0x9f0;
