@@ -24,7 +24,7 @@ namespace Offsets{
     constexpr auto Mesh                = 0x438;
     constexpr auto ComponentToWorld    = 0x250;
     constexpr auto BoneArray           = 0x5c8;
-	constexpr auto BoneArrayCache      = 0x5d8;
+    constexpr auto BoneArrayCache      = 0x5d8;
     constexpr auto TeamComponent       = 0x630;
     constexpr auto BombTeam            = 0xf8;
     constexpr auto DamageHandler       = 0x9f0;
